@@ -1,0 +1,8 @@
+Package: com.airsense.monitor
+Name: AirSense
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Theo dõi chất lượng không khí từ ESP32 qua REST API — AQI, PM2.5/PM10, MQ, CO2, LPG, CO, nhiệt độ, độ ẩm; lịch sử từ Firebase và điều khiển LED/còi.
+Maintainer: AirSense
+Author: AirSense
+Section: Utilities

@@ -1,0 +1,37 @@
+# Theos & Build Artifacts
+.theos/
+packages/
+*.deb
+*.ipa
+.zsign_cache/
+
+# OS & Editor generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*~
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Xcode / Apple
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+DerivedData/
+build/
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Temporary / Log files
+*.log
+/tmp/
