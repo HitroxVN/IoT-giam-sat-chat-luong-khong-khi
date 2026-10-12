@@ -35,3 +35,8 @@ build/
 # Temporary / Log files
 *.log
 /tmp/
+
+venv/
+esp32_server/backup/
+dashboard.html
+esp32_server/.env
