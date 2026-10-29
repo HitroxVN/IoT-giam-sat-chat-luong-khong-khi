@@ -64,6 +64,9 @@ flowchart TD
 
 ## 2. Danh Sách Phần Cứng & Sơ Đồ Chân (Pinout)
 
+![Sơ đồ kết nối và bố trí phần cứng AirSense](image.jpg)
+*Hình 1: Sơ đồ đấu nối và bố trí linh kiện thực tế trên Breadboard (ESP32, DHT22, MQ-7, MQ-135, SDS011, Buzzer, LED).*
+
 ### 2.1. Danh Sách Linh Kiện Phần Cứng
 - **Vi điều khiển**: ESP32 NodeMCU-32S (30 chân).
 - **Cảm biến nhiệt độ & độ ẩm**: DHT22 (AM2302) — độ chính xác cao.
